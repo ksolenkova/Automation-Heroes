@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingWithCSharp(AutomationHeroes)", "CodingWithCSharp(AutomationHeroes)\CodingWithCSharp(AutomationHeroes).csproj", "{C5BFECB8-A3A2-4533-8BE2-C5298A6776F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingWithCSharp(AutomationHeroes)", "CodingWithCSharp(AutomationHeroes)\CodingWithCSharp(AutomationHeroes).csproj", "{C5BFECB8-A3A2-4533-8BE2-C5298A6776F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonWeight", "MoonWeight\MoonWeight.csproj", "{D7B5BDF9-E1C0-478F-9D4D-2303B6B02300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstThreeDigits", "FirstThreeDigits\FirstThreeDigits.csproj", "{BE262F8A-D1FA-4EAD-94AD-C9FDF5A1B742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C5BFECB8-A3A2-4533-8BE2-C5298A6776F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BFECB8-A3A2-4533-8BE2-C5298A6776F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BFECB8-A3A2-4533-8BE2-C5298A6776F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B5BDF9-E1C0-478F-9D4D-2303B6B02300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B5BDF9-E1C0-478F-9D4D-2303B6B02300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B5BDF9-E1C0-478F-9D4D-2303B6B02300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B5BDF9-E1C0-478F-9D4D-2303B6B02300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE262F8A-D1FA-4EAD-94AD-C9FDF5A1B742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE262F8A-D1FA-4EAD-94AD-C9FDF5A1B742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE262F8A-D1FA-4EAD-94AD-C9FDF5A1B742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE262F8A-D1FA-4EAD-94AD-C9FDF5A1B742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

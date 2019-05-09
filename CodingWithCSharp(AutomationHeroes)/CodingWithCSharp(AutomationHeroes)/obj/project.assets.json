@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristina Solenkova\\source\\repos\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes).csproj",
+      "projectUniqueName": "C:\\Users\\Kristina Solenkova\\Documents\\Automation-Heroes\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes).csproj",
       "projectName": "CodingWithCSharp(AutomationHeroes)",
-      "projectPath": "C:\\Users\\Kristina Solenkova\\source\\repos\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes).csproj",
+      "projectPath": "C:\\Users\\Kristina Solenkova\\Documents\\Automation-Heroes\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes).csproj",
       "packagesPath": "C:\\Users\\Kristina Solenkova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristina Solenkova\\source\\repos\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\obj\\",
+      "outputPath": "C:\\Users\\Kristina Solenkova\\Documents\\Automation-Heroes\\CodingWithCSharp(AutomationHeroes)\\CodingWithCSharp(AutomationHeroes)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
